@@ -5,9 +5,7 @@ body {
   -webkit-font-smoothing: antialiased; }
 
 .indexheading p {
-  margin: 10px 0 0 0;
-    padding: 0;
-    font-family: Helvetica, sans-serif;
+  margin-left: 112px;
 }
 
 a {
