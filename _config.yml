@@ -5,9 +5,9 @@ auto: true
 rdiscount:
   extensions: [smart]
 
-name: Zach Holman
+name: Jae
 url: http://zachholman.com
-description: A fantastic blog that is fantastic.
-twitter: holman
-github: holman
+description: He buzzes like a fridge/He's like a detuned radio.
+twitter: donkeypetoncle
+github: BuzzesLikeAFridge
 gravatar_url:
